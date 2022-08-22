@@ -17,9 +17,9 @@ For building and running the application you need:
 - Open in your IDE of choice able to run Java (preferably IntellijIDEA), navigate to src/main/com/library/system/LibrarySystemApplication.java to find the main method to run. Project is set to run on port 8080. Language is set to Java 11
 - After you run the project one way or another, open your browser and URL http://localhost:8080/h2-console.
 - Login to H2 database with these details:
-  ![Screenshot](additional/console.PNG)
+  ![Screenshot](/additional/console.PNG)
 - You should then be able to execute queries on tables created in H2 in-memory database as you go along.
-  ![Screenshot](additional/console2.PNG)
+  ![Screenshot](/additional/console2.PNG)
 
 ## API
 - As per your requirements, I have created 4 endpoints:
