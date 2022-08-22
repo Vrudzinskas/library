@@ -24,15 +24,15 @@ For building and running the application you need:
 ## API
 - As per your requirements, I have created 4 endpoints:
 1. Initial request that should populate the database with values for testing: GET http://localhost:8080/populate
-   ![](additional/request1.PNG)
+   ![](/additional/request1.PNG)
 2. Endpoint accepting new books into database: POST http://localhost:8080/api/v1/book with JSON body as example:
-   ![](additional/request2.PNG)
+   ![](/additional/request2.PNG)
 3. Endpoint to delete book from database: DELETE http://localhost:8080/api/v1/book with JSON body as example:
-   ![](additional/request3.PNG)
+   ![](/additional/request3.PNG)
 4. Endpoint for user to loan a book: POST http://localhost:8080/api/v1/loanbook/1 with JSON body as example:
-   ![](additional/request4.PNG)
+   ![](/additional/request4.PNG)
 5. Endpoint for user to return a book: POST http://localhost:8080/api/v1/loanbook/1 with JSON body as example:
-   ![](additional/request5.PNG)
+   ![](/additional/request5.PNG)
 
 # REST Client
 - I used Firefox plugin RESTClient for testing, I have included the RESTClient_dump.json file that you can import in your Firefox RESTClient plugin to test the API with ease.
