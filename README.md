@@ -36,4 +36,4 @@ For building and running the application you need:
    ![Screenshot](https://github.com/Vrudzinskas/library/blob/main/additional/request5.png)
 
 ## REST Client
-- I used Firefox plugin RESTClient for testing, I have included the RESTClient_dump.json file that you can import in your Firefox RESTClient plugin to test the API with ease.
+- I used Firefox plugin RESTClient for testing, I have included the ![RESTClient_dump.json](https://raw.githubusercontent.com/Vrudzinskas/library/main/additional/RESTClient_dump.json) file that you can import in your Firefox RESTClient plugin to test the API with ease.
