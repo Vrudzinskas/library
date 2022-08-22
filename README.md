@@ -34,5 +34,5 @@ For building and running the application you need:
 5. Endpoint for user to return a book: POST http://localhost:8080/api/v1/loanbook/1 with JSON body as example:
    ![](/additional/request5.PNG)
 
-# REST Client
+## REST Client
 - I used Firefox plugin RESTClient for testing, I have included the RESTClient_dump.json file that you can import in your Firefox RESTClient plugin to test the API with ease.
